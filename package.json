@@ -1,0 +1,15 @@
+{
+  "name": "react-shell",
+  "version": "1.0.0",
+  "description": "react shell to get started with react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ganesh Balaji <ganeshkbalaji0112@gmail.com> (http://ganeshkbalaji.github.io)",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.4.0",
+    "react-dom": "^16.4.0"
+  }
+}
