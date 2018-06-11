@@ -6,9 +6,9 @@
 
 ### In order to run this skeleton app
 ---
-    1. npm run build
+    1. **npm run build**
         purpose of this for transpiler / webpack
-    2. npm run start
+    2. __npm run start__
         purpose of this is to actually run the skeleton react app locally
 
 ### Things that I still need to do
